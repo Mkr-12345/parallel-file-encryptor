@@ -1,0 +1,8 @@
+build/
+fileenc
+logs/
+.env
+*.o
+*.d
+*.enc
+*.dec
